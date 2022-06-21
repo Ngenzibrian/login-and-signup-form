@@ -1,0 +1,109 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	width: 90px;
+	height: 710px;
+	background: linear-gradient(120deg,#2980b9,#8e44ad);
+	border: 20px;
+
+	 
+}
+.center{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	height: 585px;
+	width: 308px;
+	border-radius: 8px;
+	background: white;
+	transform: translate(-50%,-50%);
+}
+.center h1{
+	margin: 8px;
+	text-align: center;
+	padding: 10px;
+	font-size: bold;
+}
+.center form{
+	padding: 0 40px;
+}
+.text-field p{
+	margin: 5px;
+	padding: 0px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.text-field input{
+	 border: none;
+            border-bottom: 2px solid darkgray;
+            background: transparent;
+            outline: none;
+            height: 40px;
+            color: #000000;
+            font-size: 16px;
+
+	
+}
+
+.forgot {
+	        font-size: 18px;
+            line-height: 40px;
+            font-weight: bold;
+            text-align: right;
+        }
+.forgot a{
+	text-decoration: none;
+	color: #000000;
+}
+input[type="submit"]{
+	line-height: 3px;
+	width: 105%;
+	height: 30px;
+	border: 1px solid;
+	background: linear-gradient(120deg,#2980b9,#8e44ad);
+	border-radius: 20px;
+	font-size: 16px;
+	color: white;
+	font-weight: bold;
+}
+.final{
+	text-align: center;
+	color: slategray;
+}
+.final p{
+	font-size: 12px;
+}
+ 
+.almost{
+	text-align: center;
+	color: slategray;
+
+}
+.almost p{
+	font-size: 12px;
+}
+.sign{
+	font-size: 12px;
+            line-height: 40px;
+            font-weight: bold;
+            text-align: center;
+}
+.sign a{
+	text-decoration: none;
+	color: #000000;
+}
+
+
+.try{
+	
+	margin-left: 20px;
+	color: red;
+	text-align: center;
+	text-decoration: none;
+
+}
+img{
+
+	width: 25px;
+	
+}
